@@ -26,18 +26,36 @@
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-4FC08D.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
+## 🚀 Main Projects
 
-## 🚀 Featured Projects
+### 1. [Brawch Front](https://github.com/dptjd324/brawch_front)
+Brawl Stars 전적 및 통계 서비스를 위한 **프론트엔드 프로젝트**입니다.  
+사용자에게 브롤러 정보, 전적 조회, 랭킹, 맵/모드 기반 데이터를 직관적으로 보여주는 화면을 구성했습니다.
 
-<a href="https://github.com/dptjd324/brawch_front">
-  <img src="https://img.shields.io/badge/Brawch%20Front-Frontend%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Brawch%20Back-Private%20Backend-important?style=for-the-badge&logo=springboot&logoColor=white" />
-<a href="https://github.com/dptjd324/project">
-  <img src="https://img.shields.io/badge/Project-Public%20Fork-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Tech Stack**  
+`Next.js` `React` `Tailwind CSS` `TypeScript`
 
-<br/><br/>
+---
+
+### 2. Brawch Back
+Brawl Stars 전적 및 통계 서비스를 위한 **백엔드 프로젝트**입니다.  
+Supercell API 연동, 전적 저장, 가공 데이터 제공, 랭킹 및 통계 처리 등을 담당하는 서버입니다.  
+> Private Repository / Forked from `yr1103/brawch`
+
+**Tech Stack**  
+`Spring Boot` `Java` `JPA` `MySQL`
+
+---
+
+### 3. [Project](https://github.com/dptjd324/project)
+팀 프로젝트 기반의 공개 레포지토리입니다.  
+기존 공개 프로젝트를 포크하여 기능 확장 및 구조 이해를 중심으로 작업했습니다.  
+> Public Repository / Forked from `junseok01/project`
+
+**Tech Stack**  
+`Java` `Spring` `MySQL`
+
+---
 
 **🛠️ Infra and Tools**
 

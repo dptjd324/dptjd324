@@ -48,9 +48,8 @@ Supercell API 연동, 전적 저장, 가공 데이터 제공, 랭킹 및 통계 
 ---
 
 ### 3. [Project](https://github.com/dptjd324/project)
-팀 프로젝트 기반의 공개 레포지토리입니다.  
-기존 공개 프로젝트를 포크하여 기능 확장 및 구조 이해를 중심으로 작업했습니다.  
-> Public Repository / Forked from `junseok01/project`
+팀 프로젝트 기반의 헬스장 검색 및 예약 사이트 입니다 
+Public Repository / Forked from `junseok01/project`
 
 **Tech Stack**  
 `Java` `Spring` `MySQL`

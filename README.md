@@ -12,6 +12,8 @@
 
 <div align="center">
 
+
+
 ### 🦾Skills 
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
@@ -23,6 +25,19 @@
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-4FC08D.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/dptjd324/brawch_front">
+  <img src="https://img.shields.io/badge/Brawch%20Front-Frontend%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Brawch%20Back-Private%20Backend-important?style=for-the-badge&logo=springboot&logoColor=white" />
+<a href="https://github.com/dptjd324/project">
+  <img src="https://img.shields.io/badge/Project-Public%20Fork-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 **🛠️ Infra and Tools**
 

@@ -70,7 +70,3 @@ Public Repository / Forked from `junseok01/project`
 </div>
 
 <hr/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dptjd324&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dptjd324&show_icons=true&theme=cobalt)
